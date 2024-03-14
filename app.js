@@ -1,0 +1,1 @@
+alert ("Wecome to Wedding Planners");
